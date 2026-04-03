@@ -1,4 +1,3 @@
-
 # 🌐 Udemig Digital Clone
 
 A modern, responsive digital agency website clone built with HTML and SCSS.
@@ -10,7 +9,7 @@ A modern, responsive digital agency website clone built with HTML and SCSS.
 - Fully responsive layout  
 - Modern and clean UI  
 - SCSS architecture (modular structure)  
-- Smooth and structured sections:
+- Structured sections:
   - Hero  
   - About  
   - Services  
@@ -30,3 +29,5 @@ A modern, responsive digital agency website clone built with HTML and SCSS.
 ---
 
 ## 📁 Project Structure
+
+
