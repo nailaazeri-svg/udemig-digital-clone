@@ -1,34 +1,46 @@
-
 # 🌐 Udemig Digital Clone
 
-A modern, responsive digital agency website built with HTML and SCSS.
+A modern, responsive digital agency website built using HTML5 and SCSS.  
+This project is developed to improve frontend development skills and practice clean, maintainable code.
+
+---
+
+## 📌 Project Overview
+
+This project focuses on:
+
+- Writing clean and readable code  
+- Creating modular SCSS structure  
+- Building responsive layouts  
+- Following modern UI/UX principles  
+- Organizing project structure properly  
 
 ---
 
 ## ✨ Features
-- Responsive design  
-- Modern UI  
-- SCSS structure  
-- Multiple sections (Hero, Services, Portfolio, Reviews, Contact, Footer)
+
+- 📱 Fully responsive design (mobile, tablet, desktop)  
+- 🎨 Modern and minimal UI  
+- 🧩 Modular SCSS architecture  
+- ⚡ Performance-focused structure  
+- 📑 Sections included:
+  - Hero  
+  - About  
+  - Services  
+  - Portfolio  
+  - Reviews  
+  - Contact  
+  - Footer  
 
 ---
 
-## 🛠️ Technologies
+## 🛠 Technologies Used
+
 - HTML5  
-- SCSS  
+- SCSS (Sass)  
 - CSS3  
+- Git & GitHub  
 
 ---
 
-## 📷 Screenshots
-
-![Screen 1](./screen/screen1.png)
-![Screen 2](./screen/screen2.png)
-![Screen 3](./screen/screen3.png)
-![Screen 4](./screen/screen4.png)
-![Screen 5](./screen/screen5.png)
-
----
-
-## 🚀 Run Project
-1. Clone repo  
+## 📁 Project Structure
